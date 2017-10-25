@@ -1,5 +1,3 @@
-# TypeScript_Day1
-
 # Lab - 綜合練習
 
 ## 題目
